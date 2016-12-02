@@ -1,0 +1,9 @@
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\assemblies\App5.dll
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\assemblies\Mono.Android.dll
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\assemblies\mscorlib.dll
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\assemblies\System.Core.dll
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\assemblies\System.dll
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\assemblies\System.Xml.dll
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\assemblies\System.Xml.Linq.dll
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\assemblies\System.Runtime.Serialization.dll
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\assemblies\System.ServiceModel.Internals.dll

@@ -1,0 +1,15 @@
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\bin\Debug\App5.dll
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\bin\Debug\App5.pdb
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\bin\Debug\App5.App5.apk
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\bin\Debug\App5.App5-Signed.apk
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\App5.csprojResolveAssemblyReference.cache
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\App5.dll
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\App5.pdb
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\android\bin\App5.App5.apk
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\res\layout\main.xml
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\res\values\strings.xml
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\res\drawable\icon.png
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\R.cs.flag
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\uploadflags.txt
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\obj\Debug\App5.dll.mdb
+D:\users\administrator\documents\visual studio 2015\Projects\App5\App5\bin\Debug\App5.dll.mdb
